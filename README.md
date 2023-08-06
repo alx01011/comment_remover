@@ -1,5 +1,5 @@
 # comment_remover
-A C and CPP style comment remover, that can be used with any file using this specific comment format
+A C and CPP **FSM** comment remover, that can be used with any file using this specific comment format
 
 It supports, **multi-line C style comments**, **single line CPP style comments** aswell as **multi-line CPP style comments**.
 
